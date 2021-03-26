@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatchImageResizer", "BatchImageResizer\BatchImageResizer.csproj", "{46CD94EF-9BF1-4565-8112-486DABC6F79B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46CD94EF-9BF1-4565-8112-486DABC6F79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CD94EF-9BF1-4565-8112-486DABC6F79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CD94EF-9BF1-4565-8112-486DABC6F79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CD94EF-9BF1-4565-8112-486DABC6F79B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AD4AE0A-C815-4FF0-AFC0-2CEEEDA0A034}
+	EndGlobalSection
+EndGlobal
